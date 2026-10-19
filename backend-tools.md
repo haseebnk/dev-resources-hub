@@ -17,3 +17,4 @@ A curated list of useful backend development tools:
 13. [Prisma](https://www.prisma.io/)
 14. [MySQL Workbench](https://www.mysql.com/products/workbench/)
 15. [Sequelize](https://sequelize.org/)
+16. [Glim](https://github.com/NeoPanic/Glim) — Open-source macOS viewer for read-only SQLite inspection, JSON trees and CSV tables.
