@@ -17,3 +17,4 @@ A curated list of useful backend development tools:
 13. [Prisma](https://www.prisma.io/)
 14. [MySQL Workbench](https://www.mysql.com/products/workbench/)
 15. [Sequelize](https://sequelize.org/)
+16. [BestJSON](https://bestjson.com/json-diff)
